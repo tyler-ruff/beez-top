@@ -2,7 +2,7 @@ languageCode = "en"
 languageName = "English"
 weight = 1
 
-title = "Congo"
+title = "Beez"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
@@ -13,7 +13,7 @@ title = "Congo"
   dateFormat = "2 January 2006"
 
   # mainSections = ["section1", "section2"]
-  # description = "My awesome website"
+  # description = "Beez marketing is a marketing service and ad platform centered around privacy."
 
 [author]
   # name = "Your name here"
