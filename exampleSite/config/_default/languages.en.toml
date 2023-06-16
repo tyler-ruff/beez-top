@@ -1,28 +1,33 @@
-languageCode = "en-au"
-languageName = "English (Australia)"
+languageCode = "en-us"
+languageName = "English (US)"
 weight = 1
 
-title = "Congo"
-copyright = "&copy; 2023 Congo contributors"
+title = "Beez"
+copyright = "&copy; 2023 Blazed Labs LLC, Ruff Management Inc."
 
 [params]
-  isoCode = "en-AU"
-  displayName = ":flag-au:"
+  isoCode = "en-US"
+  displayName = ":flag-us:"
   rtl = false
 
   dateFormat = "2 January 2006"
 
   mainSections = ["samples"]
-  description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  description = "Beez is a marketing company and advertising platform."
 
 [author]
-  name = "Congo"
-  image = "img/author.jpg"
-  headline = "Not your ordinary theme!"
-  bio = "This is an example author bio, and although there's a stock photo of a dog here, this article was actually created by a human. :dog:"
-  links = [
-    { twitter = "https://twitter.com/" },
-    { facebook = "https://facebook.com/" },
-    { linkedin = "https://linkedin.com/" },
-    { youtube = "https://youtube.com/" },
-  ]
+   name = "Blazed Labs LLC"
+  # image = "img/author.jpg"
+   headline = "We turn Dreams into Reality."
+   bio = "We are a software development company founded in 2020."
+   links = [
+     { email = "mailto:hello@blazed.space" },
+     { link = "https://blazedlabs.com/" },
+     { facebook = "https://facebook.com/blazedlabs" },
+     { github = "https://github.com/blazed-labs" },
+     { instagram = "https://instagram.com/blazed_labs" },
+     { linkedin = "https://www.linkedin.com/company/blazed-labs/" },
+     { medium = "https://medium.com/@blazed-labs" },
+     { twitter = "https://twitter.com/BlazedLabs" },
+     { youtube = "https://www.youtube.com/channel/UCUl9Q2Nq-bvju0wm3b-bohA" },
+   ]

@@ -26,15 +26,6 @@
   weight = 30
 
 [[main]]
-  name = "GitHub"
-  url = "https://github.com/jpanther/congo"
-  weight = 40
-  [main.params]
-    icon = "github"
-    showName = false
-    target = "_blank"
-
-[[main]]
   identifier = "search"
   weight = 99
   [main.params]
