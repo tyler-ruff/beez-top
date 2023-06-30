@@ -3,4 +3,4 @@ i18n:
 
 documentation:
   - "*.md"
-  - exampleSite/content/*
+  - beezTop/content/*

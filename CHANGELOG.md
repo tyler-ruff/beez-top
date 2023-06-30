@@ -656,7 +656,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ### Fixed
 
-- Hotfix for exampleSite and GitHub configuration
+- Hotfix for beezTop and GitHub configuration
 
 ## [1.1.0] - 2021-08-18
 
