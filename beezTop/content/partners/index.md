@@ -16,8 +16,9 @@ Beez Marketing Partner Portal
 
 This portal allows users to interact with their account, manage their settings, and is the main point of entry for the Beez markeing platform.
 
-| Portal Type                         |  LINK                               |
-| ----------------------------------- | ----------------------------------- |
-| {{< icon "comment" >}} Advertisers  | [Click Here](/partners/advertisers) | 
-| {{< icon "pencil" >}} Publishers    | [Click Here](/partners/publishers)  |
+| Portal Type                                |  LINK                               |
+| ------------------------------------------ | ----------------------------------- |
+| {{< icon "comment" >}} &nbsp; Advertisers  | [Click Here](/partners/advertisers) | 
+| {{< icon "pencil" >}} &nbsp; Publishers    | [Click Here](/partners/publishers)  |
+| {{< icon "phone" >}} &nbsp; Affiliates     | [Click Here](/partners/affiliates)  |
 

@@ -3,6 +3,9 @@ title: "About Beez Marketing"
 description: "A next gen privacy focused ad platform."
 date: 2023-06-30
 showEdit: false
+showReadingTime: false
+showDate: false
+tags: ["about", "info"]
 ---
 ## Buzzworthy Marketing Solutions
 
@@ -29,3 +32,4 @@ Don't let your brand get lost in the crowd. Partner with Beez Marketing and let 
 
 * [Advertise on Beez](/partners/advertisers)
 * [Monetize your Website](/partners/publishers)
+* [Affiliate Marketing](/partners/affiliates)

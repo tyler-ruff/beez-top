@@ -6,6 +6,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showEdit: false
+slug: "partners/publishers"
 tags: ["users", "partners", "login", "portal", "advertisers"]
 ---
 
