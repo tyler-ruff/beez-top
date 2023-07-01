@@ -12,7 +12,7 @@ copyright = "&copy; 2023 Blazed Labs LLC, Ruff Management Inc."
 
   dateFormat = "2 January 2006"
 
-  mainSections = ["blog"]
+  mainSections = ["samples"]
   description = "Beez is a marketing company and advertising platform."
 
 [author]
