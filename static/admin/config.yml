@@ -15,7 +15,7 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Published Date', name: 'date', widget: 'datetime' }
-      - { label: 'Body', name: 'title', widget: 'markdown' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'docs'
     label: 'Docs'
     folder: 'content/docs'
@@ -27,5 +27,4 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Published Date', name: 'date', widget: 'datetime' }
-      - { label: 'Body', name: 'title', widget: 'markdown' }
-      
+      - { label: 'Body', name: 'body', widget: 'markdown' }
