@@ -5,7 +5,12 @@
 [build.environment]
 HUGO_THEMESDIR = "../.."
 HUGO_THEME = "repo"
-TZ = "Australia/Melbourne"
+TZ = "America/New_York"
+
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/:splat"
+  status = 200
 
 [context.production.environment]
 HUGO_VERSION = "0.112.7"

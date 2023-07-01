@@ -3,6 +3,40 @@
 @tailwind base;
 @tailwind components;
 
+/* Blazed Custom Scrollbar */
+body::-webkit-scrollbar{
+  width:10px;
+}
+
+body::-webkit-scrollbar-track{
+  background:#727a8a;
+}
+
+body::-webkit-scrollbar-thumb{
+  background-color:#afb4bd;
+  border-radius:20px;
+  border:1px solid #5b626e;
+}
+
+body::-webkit-scrollbar-thumb:hover{
+  background-color:#5b626e;
+}
+
+::selection{
+  color:#fff;
+  background:#623CEA;
+  color: rgba(255, 255, 255, 0.9);
+  background:rgba(98, 60, 234, 0.9);
+  color:#fff;
+}
+
+::-moz-selection{
+  color:#fff;
+  background:#623CEA;
+  color:rgba(255, 255, 255, 0.9);
+  background:rgba(98, 60, 234, 0.9);
+}
+
 body a,
 body button {
   @apply transition-colors;
