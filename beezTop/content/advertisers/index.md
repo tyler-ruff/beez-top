@@ -10,4 +10,4 @@ slug: "partners/advertisers"
 tags: ["users", "partners", "login", "portal", "advertisers"]
 ---
 
-## Example Page
+## Advertisers Portal

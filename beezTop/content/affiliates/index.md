@@ -10,4 +10,4 @@ slug: "partners/affiliates"
 tags: ["users", "partners", "login", "portal", "affiliates"]
 ---
 
-## Example Page
+## Affiliates Portal
